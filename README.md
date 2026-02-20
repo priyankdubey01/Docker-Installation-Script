@@ -5,5 +5,7 @@ This repository contains a simple and automated Bash script to install Docker on
 
 After installation, verify Docker:
 
-**docker --version
-docker run hello-world**
+**docker --version**
+
+
+**docker run hello-world**
